@@ -5,7 +5,7 @@
 <h3 align="center">System do zarządzania użytkownikami</h3>
   <p align="center">
     Możliwość dodawania, usuwania, edytowania użytkowników oraz filtrowania według ich statusu.
-    Stworzone przez Jakuba Prach oraz Marcina Pestke.
+ Stworzone przez Jakuba Prach oraz Marcina Pestke. Pozazajęciowym elementem jest frontend napisany w EJS.
   </p>
 </div>
 
