@@ -21,15 +21,12 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Jak zacząć?</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Instalacja">Instalacja</a></li>
       </ul>
     </li>
     <li><a href="#usage">Funkcje</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Kontakt</a></li>
   </ol>
 </details>
 
@@ -100,7 +97,7 @@
 <p align="right">(<a href="#top">powrót</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Kontakt
 
 jakub.prach76@gmail.com
 
