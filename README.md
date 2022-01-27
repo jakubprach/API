@@ -78,10 +78,21 @@
 
 <!-- USAGE EXAMPLES -->
 ## Funkcje
-
+<p align="center">
+    Dodawanie użytkownika
+</p>
 ![Strona główna][product-screenshot2]
+<p align="center">
+    Edytowanie użytkownika
+</p>
 ![Strona główna][product-screenshot3]
+<p align="center">
+    Filtrowanie po klientach
+</p>
 ![Strona główna][product-screenshot4]
+<p align="center">
+    Filtrowanie po pracownikach
+</p>
 ![Strona główna][product-screenshot5]
 
 <p align="right">(<a href="#top">powrót</a>)</p>
