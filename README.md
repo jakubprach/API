@@ -5,6 +5,7 @@
 <h3 align="center">System do zarządzania użytkownikami</h3>
   <p align="center">
     Możliwość dodawania, usuwania, edytowania użytkowników oraz filtrowania według ich statusu.
+    Stworzone przez Jakuba Prach oraz Marcina Pestke.
   </p>
 </div>
 
@@ -23,8 +24,8 @@
     <li>
         <a href="#Instalacja">Instalacja</a>
     </li>
-    <li><a href="#usage">Funkcje</a></li>
-    <li><a href="#contact">Kontakt</a></li>
+    <li><a href="#Funkcje">Funkcje</a></li>
+    <li><a href="#Kontakt">Kontakt</a></li>
   </ol>
 </details>
 
