@@ -77,9 +77,12 @@
 
 
 <!-- USAGE EXAMPLES -->
-## Używanie
+## Funkcje
 
-
+![Strona główna][product-screenshot2]
+![Strona główna][product-screenshot3]
+![Strona główna][product-screenshot4]
+![Strona główna][product-screenshot5]
 
 <p align="right">(<a href="#top">powrót</a>)</p>
 
@@ -163,3 +166,7 @@ Project Link: [https://github.com/jakubprach/API](https://github.com/jakubprach/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/homepage.png
+[product-screenshot2]: images/adduser.png
+[product-screenshot3]: images/edituser.png
+[product-screenshot4]: images/klienci_filtr.png
+[product-screenshot5]: images/pracownicy_filtr.png
