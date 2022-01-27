@@ -22,7 +22,7 @@
     </li>
     <li>
       <ul>
-        <li><a href="#Instalacja">Instalacja</a></li>
+        <a href="#Instalacja">Instalacja</a>
       </ul>
     </li>
     <li><a href="#usage">Funkcje</a></li>
