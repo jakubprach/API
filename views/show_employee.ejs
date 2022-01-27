@@ -1,0 +1,36 @@
+<%- include('include/_header') %>
+    <main id="site-main">
+        <div class="container">
+            <div class="box-nav d-flex justify-between">
+                <a href="/add-user" class="border-shadow">
+                    <span class="text-gradient">Dodaj użytkownika <i class="fas fa-user"></i></span>
+                </a>
+                <a href="/show_employee" class="border-shadow">
+                    <span class="text-gradient">Pracownicy <i class="fas fa-user"></i></span>
+                </a>
+                <a href="/show_client" class="border-shadow">
+                    <span class="text-gradient">Klienci <i class="fas fa-user"></i></span>
+                </a>
+            </div>
+
+            <form action="/" method="POST">
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Imie</th>
+                            <th>Email</th>
+                            <th>Płeć</th>
+                            <th>Status</th>
+                            <th>Edytuj/Usuń</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <%- include('include/_show') %>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+    </main>
+
+<%- include('include/_footer') %>
