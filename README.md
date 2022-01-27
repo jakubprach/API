@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O projekcie
 
-[product-screenshot]
+![Strona główna][product-screenshot]
 
 <p align="right">(<a href="#top">powrót</a>)</p>
 
