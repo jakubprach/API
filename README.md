@@ -21,7 +21,9 @@
       </ul>
     </li>
     <li>
+      <ul>
         <li><a href="#Instalacja">Instalacja</a></li>
+      </ul>
     </li>
     <li><a href="#usage">Funkcje</a></li>
     <li><a href="#contact">Kontakt</a></li>
