@@ -1,11 +1,8 @@
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
 <h3 align="center">System do zarządzania użytkownikami</h3>
-
   <p align="center">
     Możliwość dodawania, usuwania, edytowania użytkowników oraz filtrowania według ich statusu.
   </p>
@@ -15,16 +12,16 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Spis treści</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">O projekcie</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Technologie</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Jak zacząć?</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -46,67 +43,45 @@
 
 [![Strona główna][product-screenshot]](https://example.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Express.js](https://expressjs.com/)
+* [Ejs](https://ejs.co/)
+* [MongoDB](https://www.mongodb.com/)
+* [NodeJS](https://nodejs.org/en/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
+### Instalacja
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Sklonuj repo
    ```sh
    git clone https://github.com/jakubprach/API.git
    ```
-3. Install NPM packages
+2. Zainstaluj pakiety
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Podaj dane swojego połączenia z MongoDB w pliku `config.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const MONGO_URI = 'PODAJ SWÓJ KLUCZ';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Używanie
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
@@ -120,7 +95,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/jakubprach/API/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
@@ -138,7 +113,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
@@ -147,7 +122,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
@@ -158,7 +133,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - jakub.prach7
 
 Project Link: [https://github.com/jakubprach/API](https://github.com/jakubprach/API)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
@@ -169,7 +144,7 @@ Project Link: [https://github.com/jakubprach/API](https://github.com/jakubprach/
 * []()
 * []()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
