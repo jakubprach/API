@@ -41,13 +41,13 @@
 <!-- ABOUT THE PROJECT -->
 ## O projekcie
 
-[![Strona główna][product-screenshot]](https://example.com)
+[![Strona główna][product-screenshot]]
 
 <p align="right">(<a href="#top">powrót</a>)</p>
 
 
 
-### Built With
+### Technologie
 
 * [Express.js](https://expressjs.com/)
 * [Ejs](https://ejs.co/)
@@ -69,7 +69,7 @@
    ```
 3. Podaj dane swojego połączenia z MongoDB w pliku `config.env`
    ```js
-   const MONGO_URI = 'PODAJ SWÓJ KLUCZ';
+    MONGO_URI = 'PODAJ SWÓJ KLUCZ';
    ```
 
 <p align="right">(<a href="#top">powrót</a>)</p>
